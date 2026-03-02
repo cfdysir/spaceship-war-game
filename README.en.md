@@ -16,7 +16,7 @@ This is a 2D airplane shooting game based on Java, supporting both single-player
 - Java 8+  
 - Java Swing  
 - Java Socket Programming  
-- MySQL database  
+- SQLite database  
 - Maven build tool  
 
 ## Directory Structure
@@ -61,7 +61,7 @@ src/
 
 ### Multiplayer Mode
 
-1. Ensure Java 8+, Maven, and MySQL are installed  
+1. Ensure Java 8+, Maven, and SQLite are installed  
 2. Create a database in MySQL and import game.db  
 3. Modify the database connection information in Server.java  
 4. Build the project:  
