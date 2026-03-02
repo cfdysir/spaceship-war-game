@@ -62,7 +62,7 @@ src/
 ### 多人模式
 
 1. 确保已安装Java 8+、Maven和MySQL
-2. 在MySQL中创建数据库并导入game.db
+2. 在SQLite中创建数据库并导入game.db
 3. 修改Server.java中的数据库连接信息
 4. 构建项目:
    ```
