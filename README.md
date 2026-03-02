@@ -16,7 +16,7 @@
 - Java 8+
 - Java Swing
 - Java Socket编程
-- MySQL数据库
+- SQLite数据库
 - Maven构建工具
 
 ## 目录结构
